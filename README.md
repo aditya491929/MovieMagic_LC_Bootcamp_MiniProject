@@ -1,1 +1,1 @@
-# MovieMagic_LC_Bootcamp_MiniiProject
+# MovieMagic_LC_Bootcamp_MiniProject
