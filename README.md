@@ -1,4 +1,4 @@
-# Movie Magic
+# **Movie Magic**
 
 ---
 
@@ -11,9 +11,11 @@
 - Sai Harsha Varma Sangaraju
 - Shashank Patoj
 
+---
 A web application that allows users to discover, browse, and review movies and TV shows, utilizing data from The Movie Database (TMDb) API.
+---
 
-## Technologies Used
+## Tech Stack
 
 - MongoDB: Database
 - Express.js: Backend framework
@@ -22,6 +24,6 @@ A web application that allows users to discover, browse, and review movies and T
 
 ## Project Structure
 
-├── client/ # React frontend
-├── server/ # Node.js & Express backend
-└── README.md # Project documentation
+- client/ # React frontend
+- server/ # Node.js & Express backend
+- README.md # Project documentation
